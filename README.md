@@ -24,7 +24,3 @@ The execution time of both approaches is measured and displayed.
 1. Clone the repository.
 2. Open the project in a Java IDE.
 3. Run the `ArrayOfThreads.java` class.
-
-## Learning Objectives
-
-This project was developed to practice Java multithreading, thread synchronization, workload distribution, and performance comparison.
